@@ -12,10 +12,8 @@ Learning C, C++, Cython, and Assembly.
 Third semester of Data Science and Artificial Inteligence at [FGV EMAp](https://emap.fgv.br/).
 
 ### Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunikito&show_icons=true&theme=codeSTACKr"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunikito&layout=compact&theme=codeSTACKr"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Brunikito&show_icons=true&theme=codeSTACKr"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunikito&layout=compact&theme=codeSTACKr"/>
 
 ### Languages and Technologies
 
