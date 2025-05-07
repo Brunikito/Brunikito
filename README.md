@@ -13,8 +13,8 @@ Third semester of Data Science and Artificial Inteligence at [FGV EMAp](https://
 
 ### Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunikito&show_icons=true&theme=codeSTACKr" height="160" style="padding-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunikito&layout=compact&langs_count=8&theme=codeSTACKr" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunikito&show_icons=true&theme=algolia" height="160" style="padding-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunikito&layout=compact&langs_count=8&theme=algolia" height="160"/>
 </div>
 
 ### Languages and Technologies
