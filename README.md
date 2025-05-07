@@ -1,15 +1,13 @@
-### Bruno Rosa (Brunikito)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/Brunikito)
+## Bruno Rosa (Brunikito)
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunolzrosa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:brunoluiszrosa@gmail.com?subject=GitHub%20contact&body=Hello%20Bruno,%20saw%20your%20profile%20on%20GitHub!)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/Brunikito)
 
 ### About Me
 
 Hi! I'm Bruno Rosa (aka Brunikito), a student passionate about machine learning, low-level programming, and writing efficient code.
 
-Learning C, C++, Cython, and Assembly.  
-
-Third semester of Data Science and Artificial Inteligence at [FGV EMAp](https://emap.fgv.br/).
+Data Science and Artificial Inteligence undergraduate at [FGV EMAp](https://emap.fgv.br/).
 
 ### Stats
 <div align="left">
