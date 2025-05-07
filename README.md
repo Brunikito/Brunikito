@@ -6,7 +6,9 @@
 ### About Me
 
 Hi! I'm Bruno Rosa (aka Brunikito), a student passionate about machine learning, low-level programming, and writing efficient code.
+
 Learning C, C++, Cython, and Assembly.  
+
 Third semester of Data Science and Artificial Inteligence at [FGV EMAp](https://emap.fgv.br/).
 
 ### Stats
@@ -31,8 +33,9 @@ Third semester of Data Science and Artificial Inteligence at [FGV EMAp](https://
 ### Currently Learning
 
 - C and x86_64 Assembly;
+- AVX2 instructions and SIMD;
 - GLib and GTK for graphical interfaces;
-- Performance optimization for deep learning algorithms.
+- Performance optimizations for deep learning algorithms.
 
 ### My Setup
 
